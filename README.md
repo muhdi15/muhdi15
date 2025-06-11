@@ -75,11 +75,11 @@ PORT     STATE SERVICE
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhdi15&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=muhdi15&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=monokai" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhdi15&layout=compact&theme=monokai" />
 </p>
 
 ---
