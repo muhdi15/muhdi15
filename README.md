@@ -88,8 +88,8 @@ PORT     STATE SERVICE
 
 - 🌐 Website: [coming soon]
 - 🐦 Twitter: [@yourhandle](https://twitter.com/)
-- 📧 Email: youremail@protonmail.com
-- 💼 LinkedIn: [linkedin.com/in/you](https://linkedin.com/in/)
+- 📧 Email: muhdimuhdi15@gmail.com
+- 💼 LinkedIn: [coming soon]
 
 ---
 
