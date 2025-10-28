@@ -1,6 +1,6 @@
-# 👨‍💻 𝙃𝘼𝘾𝙆 𝙏𝙃𝙀 𝙎𝙔𝙎𝙏𝙀𝙈 👾
+# 👨‍💻 PROGRAMMER PEMULA👾
 
-**𝘾𝙔𝘽𝙀𝙍 𝙎𝙀𝘾𝙐𝙍𝙄𝙏𝙔 • 𝙇𝘼𝙍𝘼𝙑𝙀𝙇 • 𝙋𝙔𝙏𝙃𝙊𝙉 • 𝙅𝘼𝙑𝘼**  
+**𝙇𝘼𝙍𝘼𝙑𝙀𝙇 • 𝙋𝙔𝙏𝙃𝙊𝙉 • 𝙅𝘼𝙑𝘼**  
 🕶️ *Building secure systems and breaking insecure ones — ethically.*  
 `#root@terminal:~$ whoami` → **pro_hacker_dev**
 
@@ -9,7 +9,7 @@
 ## 🧠 About Me
 
 ```bash
-> echo "Professional hacker with clean code and dirty tricks."
+> echo "Coding with clean code and tricks."
 ```
 
 Hey there 👋  
